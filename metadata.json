@@ -1,0 +1,6 @@
+{
+  "name": "AI Translator with Autocomplete and History",
+  "description": "An advanced AI-powered translator with automatic language detection, tone customization, pronunciation guides, conversational predictive text, and persistent translation history.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
