@@ -62,7 +62,7 @@ No installation, no API key, no backend server required — it runs entirely in 
 
 **Your Name**
 Web Development Intern @ CodeAlpha
-[LinkedIn](your-linkedin-link) • [GitHub](your-github-link)
+[LinkedIn](https://www.linkedin.com/in/abdulsami-dev?utm_source=share_via&utm_content=profile&utm_medium=member_android) • [GitHub](https://github.com/usman329?tab=repositories)
 
 ## 📄 License
 
